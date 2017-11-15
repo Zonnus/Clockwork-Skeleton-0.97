@@ -1,0 +1,9 @@
+"cwskeleton"
+{
+	"title"			"Skeleton"
+	"author"		"Zonnus"
+	"description"	"A sample schema for Clockwork."
+	"version"	"1.0"
+	"menusystem"	"1"
+//	"workshopid"	"<ID>"
+}
